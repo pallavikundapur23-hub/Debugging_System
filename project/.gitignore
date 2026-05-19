@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+logs/
+workflow_state/
+repos/
+*.log
